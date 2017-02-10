@@ -1,3 +1,6 @@
 -ARIA
 -aria-control attribute
 -role attribute
+-save course material
+-bootstrap components and javascript
+-jQuery
