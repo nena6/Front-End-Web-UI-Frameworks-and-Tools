@@ -4,3 +4,4 @@
 -save course material
 -bootstrap components and javascript
 -jQuery
+-data-* attributes
