@@ -2,6 +2,9 @@
 -aria-control attribute
 -role attribute
 -save course material
--bootstrap components and javascript
+-bootstrap components and javascript (i.e. carousel events and methods)
 -jQuery
 -data-* attributes
+
+-RequireJS
+-AMD
