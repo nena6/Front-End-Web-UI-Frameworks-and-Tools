@@ -5,6 +5,7 @@
 -bootstrap components and javascript (i.e. carousel events and methods)
 -jQuery
 -data-* attributes
+	- in Bootstrap can't have multiple data attributes on one element
 
 -RequireJS
 -AMD
